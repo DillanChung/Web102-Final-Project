@@ -2,7 +2,7 @@
 
 Submitted by: **Dillan Chung**
 
-This web app: **insert description**
+This web app: **Eventgram is a web app where users can share posts about events, interests, and more. You can create posts with titles, text, and images. The home feed shows posts with their time and likes. You can sort and search for posts, view individual post pages with comments and likes, and edit/delete posts with a secret key. It also has features like random user IDs, reposting with threads, video sharing, image uploads, and flag filtering. Plus, it has loading animations and uses APIs for extra functions.**
 
 Time spent: **9** hours spent in total
 
