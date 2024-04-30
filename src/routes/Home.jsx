@@ -4,7 +4,7 @@ import { FiSearch } from "react-icons/fi";
 import Card from "../components/Card";
 import Loading from "../components/Loading";
 
-const TM_API_KEY = import.meta.env.VITE_TICKET_MASTER;
+const TM_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNnd3liYXB5aGxtZ21raWhvbWZqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQ1MTY5NTcsImV4cCI6MjAzMDA5Mjk1N30.Gfi51PSuAySJ7Nw7hnKyNJbRq5aamapdf7bALhoZOGA";
 
 function Home() {
   const controller = new AbortController();

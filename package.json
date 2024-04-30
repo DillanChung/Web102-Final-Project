@@ -12,11 +12,13 @@
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/material": "^5.11.16",
-    "@supabase/supabase-js": "^2.15.0",
+    "@supabase/supabase-js": "^2.42.7",
+    "build": "^0.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
-    "react-router-dom": "^6.10.0"
+    "react-router-dom": "^6.10.0",
+    "run": "^1.5.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
