@@ -1,10 +1,10 @@
-# Web Development Final Project - *TravelSphere*
+# Web Development Final Project - **Public Images**
 
 Submitted by: **Dillan C**
 
-Link where our app is being hosted: https://travelspherefull.netlify.app/
+Link where our app is being hosted: https://66319737a64595594ed3815f--joyful-lollipop-667cb0.netlify.app/home
 
-This web app: ** build a community for travelers to share their experiences, tips, and photos from their adventures around the world. We believe that traveling is a way to connect with people from different cultures, and backgrounds.*
+This web app: **Our mission is to establish a vibrant community for travelers to exchange their experiences, tips, and photos from their global adventures. We firmly believe that exploring different places is a powerful method to forge connections with individuals from diverse cultures and backgrounds.*
 
 Time spent: **10** hours spent in total
 
@@ -26,10 +26,6 @@ The following **required** functionality is completed:
 
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-https://youtu.be/DNuojBKSrVA
 
 
 

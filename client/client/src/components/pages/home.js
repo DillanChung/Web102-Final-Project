@@ -35,7 +35,7 @@ export const Home = () => {
   return (
     <div className="Content">
       <p className="description">
-      Our goal is to create a community where gamers can share their favorite gaming titles, strategies, and screenshots from their virtual adventures. We believe that gaming is a means to connect people across diverse backgrounds and cultures, fostering a sense of camaraderie and shared experiences.
+      Our mission is to establish a platform where users can share captivating images of places they find intriguing, along with descriptions and travel tips. We believe that showcasing these places fosters connections among people from various backgrounds and cultures, encouraging shared experiences and a sense of community.
       </p>
       <br />
       <div>
