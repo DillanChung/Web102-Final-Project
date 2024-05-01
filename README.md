@@ -1,12 +1,12 @@
 # Web Development Final Project - **Public Images**
 
-Submitted by: **Dillan C**
+Submitted by: **Dillan Chung**
 
 Link where our app is being hosted: https://66319737a64595594ed3815f--joyful-lollipop-667cb0.netlify.app/home
 
 This web app: **Our mission is to establish a vibrant community for travelers to exchange their experiences, tips, and photos from their global adventures. We firmly believe that exploring different places is a powerful method to forge connections with individuals from diverse cultures and backgrounds.*
 
-Time spent: **10** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -31,7 +31,7 @@ The following **required** functionality is completed:
 
 ## License
 
-    Copyright [2024] [Dillan C]
+    Copyright [2024] [Dillan Chung]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
