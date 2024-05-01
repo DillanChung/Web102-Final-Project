@@ -35,10 +35,7 @@ export const Home = () => {
   return (
     <div className="Content">
       <p className="description">
-        Our purpose is to build a community for travelers to share their
-        experiences, tips, and photos from their adventures around the world. We
-        believe that traveling is a way to connect with people from different
-        cultures, and backgrounds.
+      Our goal is to create a community where gamers can share their favorite gaming titles, strategies, and screenshots from their virtual adventures. We believe that gaming is a means to connect people across diverse backgrounds and cultures, fostering a sense of camaraderie and shared experiences.
       </p>
       <br />
       <div>

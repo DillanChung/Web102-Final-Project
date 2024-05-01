@@ -40,7 +40,7 @@
 }
 html,
 body {
-  background-color: #ddf7e3;
+  background-color: #f2f4f3;
   height: 100%;
   margin: 0;
   padding: 0;
@@ -89,7 +89,7 @@ input[type="password"]:autofill {
   background-color: #c7e8ca;
   border-radius: 35px;
   box-sizing: content-box;
-  box-shadow: 0 0 20px -8px #4a7d47;
+  box-shadow: 0 0 20px -8px #1634ae;
 }
 
 .login {
@@ -98,7 +98,7 @@ input[type="password"]:autofill {
   left: 5%;
   width: 90%;
   padding: 10px;
-  background-color: #4a7d47;
+  background-color: #1634ae;
   color: white;
   border: none;
   cursor: pointer;
@@ -269,7 +269,7 @@ span {
 }
 .button {
   background-color: #2c786c;
-  color: white;
+  color: #1634ae;
   border-radius: 10px;
   border: none;
   width: 10%;

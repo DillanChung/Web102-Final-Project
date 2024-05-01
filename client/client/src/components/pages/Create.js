@@ -86,7 +86,7 @@ export const Create = () => {
         author: userData?.email,
         authorId: userData?.id,
         likes: 0,
-        image: `https://qgscsdcwesvbsrmfjlft.supabase.co/storage/v1/object/public/Posts-Images/${userData?.id}/${media?.name}`,
+        image: `https://cgwybapyhlmgmkihomfj.supabase.co/storage/v1/object/public/Posts-Images/${userData?.id}/${media?.name}`,
       })
       .select();
 
