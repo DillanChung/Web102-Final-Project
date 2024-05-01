@@ -27,6 +27,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
+<img src='client\client\public\Youtube.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
