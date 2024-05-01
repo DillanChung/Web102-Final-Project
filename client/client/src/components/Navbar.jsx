@@ -34,7 +34,7 @@ export const Navbar = () => {
         <div>
           <nav>
             <Link to="/Dashboard" className="title">
-              Gaming Realm
+              Public Imagess
             </Link>
             <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>
               <span></span>
@@ -59,7 +59,7 @@ export const Navbar = () => {
         <div>
           <nav>
             <Link to="/home" className="title">
-              Gaming Realm
+            Public Imagess
             </Link>
             <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>
               <span></span>
